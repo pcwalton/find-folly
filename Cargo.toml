@@ -2,6 +2,11 @@
 name = "find-folly"
 version = "0.1.0"
 edition = "2021"
+authors = ["Patrick Walton <pcwalton@mimiga.net>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pcwalton/find-folly"
+readme = "README.md"
+description = "Allows Rust `build.rs` scripts to easily locate the Folly library"
 keywords = ["build-dependencies"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

@@ -1,0 +1,12 @@
+[package]
+name = "find-folly"
+version = "0.1.0"
+edition = "2021"
+keywords = ["build-dependencies"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pkg-config = "0.3"
+shlex = "1"
+thiserror = "1"
